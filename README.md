@@ -1,8 +1,21 @@
- <h1 align="left" style="color:white;" >Hey 👋 What's up?</h1>
+### Hi there 👋🏻
+
+# About Me
+I'm ParsaNik, a Flutter developer with a deep passion for Dart and Flutter. 🚀 I'm also pursuing a degree in Software Engineering 📚, and I'm currently immersed in building innovative software and applications. If you'd like to see my work, feel free to check out my portfolio on Instagram! 📱👀
+
+* 📱 Flutter Developer / Freelancer
+
+* ✨ UI / UX Enthusiast
+
+* 💻 Committed to writing clean, efficient code
+
+* ♥️ Passionate about exploring new places
+
+* 💁🏻  Sharing insights, apps, and tips on Flutter development on [Instagram](https://instagram.com/parsanik.dev).
 
 ###
 
-<p align="left">My name is ParsaNik, and I work as a Flutter developer. 🚀 Currently, I'm pursuing a degree in Software Engineering 📚, and I have a strong passion for Dart/Flutter. 💙 Right now, I'm actively involved in creating software and applications using Flutter. If you're interested, you can check out my portfolio on Instagram! 📱👀</p>
+# Reach me via 👇🏻
 
 ###
 
@@ -46,7 +59,7 @@
  
   <img src="https://github-readme-stats.vercel.app/api?username=parsanikdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
  
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parsanikdev&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parsanikdev&theme=tokyonight&hide_border=false" height="150" />
  
  
 </div>
