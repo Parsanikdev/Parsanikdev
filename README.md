@@ -50,11 +50,3 @@ I'm ParsaNik, a Flutter developer with a deep passion for Dart and Flutter. 🚀
   <a href="https://zaap.bio/parsanikdev" target="_blank" rel="noreferrer">
   <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png" width="50" />
   </a>
- 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parsanikdev&theme=tokyonight&hide_border=false" height="150" />
- 
- 
-</div>
-
-###
-
