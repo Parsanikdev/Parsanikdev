@@ -15,23 +15,6 @@ I'm ParsaNik, a Flutter developer with a deep passion for Dart and Flutter. 🚀
 
 ###
 
-# Reach me via 👇🏻
-
-###
-
-<h2 align="left" style="color:white;" >💻 Tech Stack</h2>
-
-###
-
-<div align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,python,django,firebase,figma,vscode,androidstudio,git,github&theme=dark" />
-  </a>
- 
-</div>
-
-###
-
 <h2 align="left" style="color:white;" >🌐 My socials</h2>
 
 ###
