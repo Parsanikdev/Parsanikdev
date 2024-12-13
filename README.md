@@ -21,10 +21,10 @@ I'm ParsaNik, a Flutter developer with a deep passion for Dart and Flutter. 🚀
   <a href="https://instagram.com/parsanik.dev" target="_blank">
     <img src="https://github.com/user-attachments/assets/3e1066a5-35cc-4ce4-9035-6fc457c7e4c9"  height="50" alt="instagram logo"  />
   </a>
-  <a href="https://www.youtube.com/c/parsanik.dev" target="_blank">
+  <a href="https://youtube.com/@parsanikdev?si=3q33vY73XCULeD3B" target="_blank">
     <img src="https://github.com/user-attachments/assets/191ecd5f-d6c5-4348-ab46-23f9ccd41fb8" height="50" alt="youtube logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/parsanik.dev" target="_blank">
+  <a href="www.linkedin.com/in/parsa-nik-3387b5236" target="_blank">
     <img src="https://github.com/user-attachments/assets/6708f656-58c5-4305-bce9-62663961137a" height="50" alt="telegram logo"  />
   
 ###
