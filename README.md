@@ -15,21 +15,16 @@ I'm ParsaNik, a Flutter developer with a deep passion for Dart and Flutter. 🚀
 
 ###
 
-<h2 align="left" style="color:white;" >🌐 My socials</h2>
+# Reach me via 👇🏻
 
-###
 
-<div align="left">
   <a href="https://instagram.com/parsanik.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://github.com/user-attachments/assets/3e1066a5-35cc-4ce4-9035-6fc457c7e4c9"  height="50" alt="instagram logo"  />
   </a>
-  <a href="https://www.youtube.com/@Parsanikdev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://www.youtube.com/c/parsanik.dev" target="_blank">
+    <img src="https://github.com/user-attachments/assets/191ecd5f-d6c5-4348-ab46-23f9ccd41fb8" height="50" alt="youtube logo"  />
   </a>
-  <a href="https://parsaniksirat.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-
-  <a href="https://zaap.bio/parsanikdev" target="_blank" rel="noreferrer">
-  <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png" width="50" />
-  </a>
+  <a href="https://www.linkedin.com/in/parsanik.dev" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6708f656-58c5-4305-bce9-62663961137a" height="50" alt="telegram logo"  />
+  
+###
