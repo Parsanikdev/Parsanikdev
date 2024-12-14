@@ -1,4 +1,11 @@
-### Hi there 👋🏻
+<h1>Hi , I'm ParsaNik<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2>Flutter DEVELOPER </h2>
+
+![gitartwork](assets/gitartwork.svg)
+
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
 # About Me
 I'm ParsaNik, a Flutter developer with a deep passion for Dart and Flutter. 🚀 I'm also pursuing a degree in Software Engineering 📚, and I'm currently immersed in building innovative software and applications. If you'd like to see my work, feel free to check out my portfolio on Instagram! 📱👀
